@@ -152,5 +152,6 @@ jobs:
           URL="https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
 
           gh issue create \
+            --repo "${{ github.repository }}" \
             --title "$DATE - Deployment: $STATUS" \
             --body "URL: $URL"
