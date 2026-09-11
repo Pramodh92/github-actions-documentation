@@ -171,3 +171,11 @@ spruecss-eleventy-documentation-template/
 - **shortcodes**: The available shortcodes.
 
 - **transforms**: The transformations.
+
+
+# CorpX Documentation
+
+## Project Links
+
+- **GitHub Repository:** https://github.com/Pramodh92/github-actions-documentation
+- **Published Knowledge Base:** https://pramodh92.github.io/github-actions-documentation/
